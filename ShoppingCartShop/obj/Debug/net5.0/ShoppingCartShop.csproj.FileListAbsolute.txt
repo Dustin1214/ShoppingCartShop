@@ -1,0 +1,16 @@
+C:\Xamarin\ShoppingCartShop\ShoppingCartShop\bin\Debug\net5.0\ShoppingCartShop.exe
+C:\Xamarin\ShoppingCartShop\ShoppingCartShop\bin\Debug\net5.0\ShoppingCartShop.deps.json
+C:\Xamarin\ShoppingCartShop\ShoppingCartShop\bin\Debug\net5.0\ShoppingCartShop.runtimeconfig.json
+C:\Xamarin\ShoppingCartShop\ShoppingCartShop\bin\Debug\net5.0\ShoppingCartShop.runtimeconfig.dev.json
+C:\Xamarin\ShoppingCartShop\ShoppingCartShop\bin\Debug\net5.0\ShoppingCartShop.dll
+C:\Xamarin\ShoppingCartShop\ShoppingCartShop\bin\Debug\net5.0\ShoppingCartShop.pdb
+C:\Xamarin\ShoppingCartShop\ShoppingCartShop\obj\Debug\net5.0\ShoppingCartShop.csproj.AssemblyReference.cache
+C:\Xamarin\ShoppingCartShop\ShoppingCartShop\obj\Debug\net5.0\ShoppingCartShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Xamarin\ShoppingCartShop\ShoppingCartShop\obj\Debug\net5.0\ShoppingCartShop.AssemblyInfoInputs.cache
+C:\Xamarin\ShoppingCartShop\ShoppingCartShop\obj\Debug\net5.0\ShoppingCartShop.AssemblyInfo.cs
+C:\Xamarin\ShoppingCartShop\ShoppingCartShop\obj\Debug\net5.0\ShoppingCartShop.csproj.CoreCompileInputs.cache
+C:\Xamarin\ShoppingCartShop\ShoppingCartShop\obj\Debug\net5.0\ShoppingCartShop.dll
+C:\Xamarin\ShoppingCartShop\ShoppingCartShop\obj\Debug\net5.0\refint\ShoppingCartShop.dll
+C:\Xamarin\ShoppingCartShop\ShoppingCartShop\obj\Debug\net5.0\ShoppingCartShop.pdb
+C:\Xamarin\ShoppingCartShop\ShoppingCartShop\obj\Debug\net5.0\ShoppingCartShop.genruntimeconfig.cache
+C:\Xamarin\ShoppingCartShop\ShoppingCartShop\obj\Debug\net5.0\ref\ShoppingCartShop.dll
